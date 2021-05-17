@@ -10,3 +10,5 @@ The first row represents the input images of MNIST, the second represents the en
 
 
 
+
+
